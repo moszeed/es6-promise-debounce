@@ -6,6 +6,10 @@
     "scripts": {
         "test": "browserify ./tests/*.js | tape-run"
     },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:moszeed/es6-promise-debounce.git"
+    },
     "keywords": [
         "promise",
         "debounce",
