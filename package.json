@@ -1,8 +1,8 @@
 {
     "name": "es6-promise-debounce",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "a debounce for promises",
-    "main": "src/es6-promise-debounce.js",
+    "main": "./src/es6-promise-debounce.js",
     "scripts": {
         "test": "browserify ./tests/*.js | tape-run"
     },
